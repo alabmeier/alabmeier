@@ -14,7 +14,6 @@ I'm an Applied Mathematics & Statistics graduate from UC Berkeley interested in 
 Statistical analysis of competitive Scrabble gameplay using R, including data cleaning, exploratory analysis, logistic regression, and hypothesis testing.
 
 **[MLS Data Analysis](https://github.com/alabmeier/IDX-Exchange-Data-Analyst)**
-
 Analyze MLS transaction data using Python and Tableau to clean, organize, and evaluate real estate listings and sales data. Explore market trends, property characteristics, and competitive metrics to develop data-driven insights.
 
 **Numerical Methods & Scientific Computing**
@@ -26,6 +25,6 @@ Projects involving numerical analysis, root-finding algorithms, interpolation, a
 * Building my portfolio in Python, SQL, and R
 * Exploring applications of statistics to real-world data
 
-### Connect
+### Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/ava-labmeier/)
+[LinkedIn](https://www.linkedin.com/in/ava-labmeier/) • ava_labmeier@berkeley.edu
