@@ -13,7 +13,7 @@ I'm an Applied Mathematics & Statistics graduate from UC Berkeley interested in 
 **[Scrabble Strategy Analysis](https://github.com/alabmeier/scrabble_analysis)**
 Statistical analysis of competitive Scrabble gameplay using R, including data cleaning, exploratory analysis, logistic regression, and hypothesis testing.
 
-**[MLS Data Analysis] (https://github.com/alabmeier/IDX-Exchange-Data-Analyst)**
+**[MLS Data Analysis](https://github.com/alabmeier/IDX-Exchange-Data-Analyst)**
 
 Analyze MLS transaction data using Python and Tableau to clean, organize, and evaluate real estate listings and sales data. Explore market trends, property characteristics, and competitive metrics to develop data-driven insights.
 
